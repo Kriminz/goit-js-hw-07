@@ -35,7 +35,7 @@ function checkCurrentImage(event) {
 // Перевірка місця кліку
   checkClickPlase(event);
 
-// Створення модального вікна з більшим зображенням
+// Створення Lightbox
   createModal(event);
 }
 
